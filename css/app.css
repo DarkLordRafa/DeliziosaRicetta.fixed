@@ -1,0 +1,22 @@
+* {
+    font-family: 'Comfortaa', cursive;
+}
+
+#body__style{
+    background-color: var(--bg-color);
+    color: var(--color-text);
+}
+
+html {
+    --main-color-orange: #FF914D;
+    --secondary-color-red: #DC2810;
+    --secondary-color-white: #fff;
+    --secondary-color-black: #000;
+    --carousel-shadow: #000;
+    --header-color: rgb(248, 249, 250);
+    --bg-color: #fff;
+    --color-text: #000;
+    --footer-color: rgb(248, 249, 250);
+    --modal-header: #FF914D;
+    --news-color:#FF914D;
+}
