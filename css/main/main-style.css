@@ -3,13 +3,17 @@
 
 #carouselExampleCaptions{
 	width: 100%!important;
-	position: relative!important;
 	}
 
 .carousel-inner{
     box-shadow: 0 0 15px 1px #000;
     margin-bottom: 1%;
 }
+
+.carousel-inner .carousel-item{
+	position: relative!important;
+	height: 100%!important;
+	}
 
 .casousel__caption__h5 {
     font-size: 75px;
