@@ -8,7 +8,6 @@
 .carousel-inner {
     box-shadow: 0 0 15px 1px #000;
     margin-bottom: 1%;
-	 position: relative!important;
 }
 
 .casousel__caption__h5 {
@@ -23,6 +22,10 @@
     text-align: justify;
     text-justify: inter-word;
 }
+
+.carousel-area{
+	position: relative!important;
+	}
 
 .black-window{
     background: var(--secondary-color-black);
