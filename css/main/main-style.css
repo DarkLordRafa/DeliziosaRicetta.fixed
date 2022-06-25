@@ -88,6 +88,11 @@
     transform: scale(1.05, 1.05);
 }
 
+.card-img-top{
+	height: 30vw;
+	object-fit: cover;
+	}
+
 
 /* */
 
@@ -187,6 +192,10 @@
 .card-text {
     font-size: 4vw;
 }
+
+.card-img-top{
+	height: 50vw;
+	}
 	
 .newsletter__h1 {
     font-size: 6vw;
