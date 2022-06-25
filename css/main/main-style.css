@@ -3,6 +3,7 @@
 
 #carouselExampleCaptions{
 	width: 100%!important;
+	position: relative!important;
 	}
 
 .carousel-inner{
@@ -22,10 +23,6 @@
     text-align: justify;
     text-justify: inter-word;
 }
-
-.carousel-inner .carousel-item{
-	position: relative!important;
-	}
 
 .d-md-block .black-window{
     background: var(--secondary-color-black);
