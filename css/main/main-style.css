@@ -10,6 +10,10 @@
     margin-bottom: 1%;
 }
 
+.carousel-inner{
+	height: 100%!important;
+	}
+
 .carousel-inner .carousel-item{
 	position: relative!important;
 	height: 100%!important;
