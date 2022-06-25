@@ -23,11 +23,11 @@
     text-justify: inter-word;
 }
 
-.carousel-item .carousel-area{
+.carousel-inner .carousel-item{
 	position: relative!important;
 	}
 
-.carousel-area .black-window{
+.d-md-block .black-window{
     background: var(--secondary-color-black);
     opacity: 0.7;
     border-radius: 10px;
