@@ -5,7 +5,7 @@
 	width: 100%!important;
 	}
 
-.carousel-inner {
+.carousel-inner{
     box-shadow: 0 0 15px 1px #000;
     margin-bottom: 1%;
 }
@@ -23,11 +23,11 @@
     text-justify: inter-word;
 }
 
-.carousel-area{
+.carousel-item .carousel-area{
 	position: relative!important;
 	}
 
-.black-window{
+.carousel-area .black-window{
     background: var(--secondary-color-black);
     opacity: 0.7;
     border-radius: 10px;
