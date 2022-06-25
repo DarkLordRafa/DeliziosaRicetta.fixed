@@ -1,6 +1,10 @@
 
 /* style referente ao banner com slide show*/
 
+#carouselExampleCaptions{
+	width: 100%!important;
+	}
+
 .carousel-inner {
     box-shadow: 0 0 15px 1px #000;
     margin-bottom: 1%;

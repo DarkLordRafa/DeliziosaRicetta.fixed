@@ -32,8 +32,9 @@
 	color: var(--color-text);
 }
 
-#footer-icons .footer-icons__option{
+#footer-icons .footer-icons__option i{
 	margin: 10%!important;
+	font-size: 3vw!important;
 	}
 
 .footer-menu .footer-menu__option{
@@ -82,6 +83,10 @@
 	align-items: center;
 	text-align: center!important;
 }
+
+#footer-icons .footer-icons__option i{
+	font-size: 10vw!important;
+	}
 }
 
 
