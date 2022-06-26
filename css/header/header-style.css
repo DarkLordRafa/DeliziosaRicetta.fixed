@@ -1,6 +1,7 @@
 .navbar {
     max-width: 100%;
     background-color: var(--header-color);
+	 margin-bottom: 2%;
 }
 
 .navbar-nav{
