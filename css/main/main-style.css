@@ -86,14 +86,12 @@
 
 
 /* estilizando os cards */
-.card_highlights{
-	margin-top: 5%;
-	}
 
 .cards-container{
 	display: flex;
 	flex-wrap: wrap;
 	width: 100%;
+	margin-top: 10%;
 	}
 
 .card {
