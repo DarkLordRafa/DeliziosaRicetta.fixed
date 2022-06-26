@@ -4,7 +4,7 @@
 }
 
 .navbar-nav{
-	padding-top: 5%;
+	padding-top: 2%;
 	}
 	
 .navbar-toggler:hover{
@@ -159,6 +159,10 @@ header figure{
 @media (max-width: 1023px){
 	.theme__switch{
 	margin-bottom: 10%;
+	}
+	
+.navbar-nav{
+	padding-top: 5%;
 	}
 }
 
