@@ -1,4 +1,4 @@
-Projeto antigo do [@wendelschimitz10](https://github.com/wendelschimitz10) que fez um site de comida italiana. O site não estava responsivo e estava quebrando em telas menores, e algumas questões de UI/UX precisavam ser melhoradas. Eu adicionei responsividade ao site e fiz algumas pequenas melhorias de UI/UX
+Projeto antigo do [wendelschimitz10](https://github.com/wendelschimitz10) que fez um site de comida italiana. O site não estava responsivo e estava quebrando em telas menores, e algumas questões de UI/UX precisavam ser melhoradas. Eu adicionei responsividade ao site e fiz algumas pequenas melhorias de UI/UX
 
 Link do projeto (minha versão):
  https://darklordrafa.github.io/DeliziosaRicetta.fixed/
